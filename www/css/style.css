@@ -1,0 +1,31 @@
+#wrap{
+	height: 500px;
+	margin: 0 auto;
+	min-height: 100%;
+	min-width: 100%;
+	overflow: hidden;
+}
+
+#first{
+	height: 300px;
+	margin: 0 auto;
+	width: 500px;
+}
+
+/*#image{
+	height: 281px;
+	width:  500px;
+}*/
+
+
+#about{
+	height: 100px;
+	margin: 0 auto;
+	width: 500px;
+}
+
+#about span p{
+	font-family: 'Lemon', cursive;
+	font-size: 14px;
+	line-height: 14px;
+	}
